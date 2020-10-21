@@ -1,0 +1,27 @@
+/*Title Card*/
+.title {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bolder;
+  font-size: 40px;
+  background-color:#dae7e5;
+  color: black;
+  padding: 10px;
+}
+
+/* Navigation Bar*/
+nav {
+  font-size: 40px;
+  font-family: helvetica;
+  font-weight: bold;
+  text-align: center;
+
+  padding: 20px;
+  background-color: #13d2e0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+}
